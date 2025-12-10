@@ -18,7 +18,7 @@
     "@hookform/resolvers": "^3.10.0",
     "@openbb/ui-pro": "^0.6.10",
     "@tanstack/react-router": "^1.131.27",
-    "@tanstack/router-core": "^1.114.33",
+    "@tanstack/router-core": "^1.136.11",
     "@tanstack/router-devtools": "^1.131.27",
     "@tauri-apps/plugin-app": "^2.0.0-alpha.1",
     "@tauri-apps/plugin-dialog": "^2.3.3",
